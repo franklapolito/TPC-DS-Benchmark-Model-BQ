@@ -1,6 +1,6 @@
 unique_name: wh
 object_type: connection
 label: wh
-as_connection: BigQuery
-database: benchmark-251817
-schema: tpcds_10tb
+as_connection: ${AS_CONNECTION}
+database: ${DATABASE}
+schema: ${SCHEMA}
